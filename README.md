@@ -1,2 +1,3 @@
-# hw_project
-Personal Project
+#Exchange Rate Tracking
+A simple webscraping tool to scrape exchange rate daily from a bank website.
+
